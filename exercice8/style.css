@@ -1,0 +1,7 @@
+h1 {
+    border: 8px black solid;
+    padding-left: 500px;
+}
+p {
+    border-bottom: 1px solid red;
+}
